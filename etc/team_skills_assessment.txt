@@ -1,0 +1,34 @@
+Evan:
+C++ - Compentent
+C - Compentent
+C# - Novice
+GDScript - Noivce
+Python - Novice
+Java - Novie
+
+Jeff:
+C++ - Compentent
+Javascript - Novice
+Python - Novice
+
+
+Ideas:
+Game
+Fantasy football for games/anime/or movies etc.
+***Make a new pokemon game
+Stardew Valley type game
+Zelda like top down adventure game
+Combining all the above
+
+Dream rougelike idea
+- During day, stardew valley like. Meeting people
+  - depending how you treat them either ally or enemy in the dreams
+- at night go into zelda like dream world fighting enemies
+  - the more friends you have the stronger you are
+
+- player is a criminal and if caught then enemy in the dream world
+- npc are evil and have to defeat them in the dream in order to make them good
+
+- Pixel art, 16 bit
+- top down 2d
+- 
