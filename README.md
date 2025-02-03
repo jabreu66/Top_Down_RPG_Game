@@ -27,10 +27,7 @@ A list of features, function or non-functional, you would like to add in the fut
 ### Installing
 <<
  A step by step series of examples that tell you how to get a development env running
-Say what the step will be  
-`Give the example`  
-And repeat  
-`until finished`  
+Clearly outline each step and repeat until the environment is set up.
 End with an example of getting some output from the system, such as a menu or prompt
 >>
 
