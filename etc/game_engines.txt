@@ -1,0 +1,24 @@
+Game engines
+Godot - GDScript (python based propritary language) (https://godotengine.org/)
+  C++ extentions though people say its better to just use GDScript (https://docs.godotengine.org/en/stable/tutorials/scripting/gdextension/gdextension_cpp_example.html)
+  2D and 3D engine, free, open source
+Unreal - C++ and nodes (https://www.unrealengine.com/en-US)
+  Not the best for 2D games, possible but not ideal
+  3D, Free
+Unity - C# (https://unity.com/)
+  Cannot use any other language
+  2D and 3D engine, free
+RPG Maker - Javascript
+  Really easy drag-drop language
+  pixel only, but mainly for rpgs
+  for what we want maybe not the best but def an option to keep in mind
+Gamemaker Studio - Drag-Drop or GML (propritary language) (https://gamemaker.io/en)
+  Some really cool games were made using this engine
+  I tried this out a couple years ago but remember hating it, idk ill try it again
+  2D and 3D engine, free
+Supernova - Lua or C++ (https://supernovaengine.org/)
+  never heard of it tbh
+  2D and 3D engine, free open source
+Urtho 3D - C++ (https://urho3d.io/)
+  also never heard of it
+  2D and 3D, free open source
