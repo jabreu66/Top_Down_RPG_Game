@@ -1,9 +1,9 @@
 ## Client Meeting Notes
 
-**Project Name:** [Your Project Name]
-**Date:** [MM/DD/YYYY]
-**Client Name:** [Client’s Name]
-**Interviewed By:** [Your Name(s)]
+**Project Name:** Top-Down Game
+**Date:** 2/5/2025
+**Client Name:** Evan Rich
+**Interviewed By:** Jeffrey Abreu
 
 ---
 
@@ -20,30 +20,37 @@
 
 #### **1. What are the costs vs. budget?**
 **Client’s Response:**
-(Example: "I don’t want to spend much, ideally free, but I’d consider paying a one-time fee.")
+1. The game should not cost that much and be free. (To make)
+2. Around $100.
+3. The budget.
 
 **Clarification & Notes:**
-(Example: The client is looking for a free tool but may accept optional paid features.)
+2. What do you mean by not cost that much?
+3. Is that the budget for the game or the cost?
 
 ---
 
 #### **2. What is the timeframe for this project?**
 **Client’s Response:**
-(Example: "I need this ready before my next campaign starts in three months.")
+1. Not too long.
+2. Like 3 months.
+3. May 15th
 
 **Clarification & Notes:**
-(Example: A strict deadline, must focus on core features first.)
+2. So what do you mean by not too long, is that a few months, a few weeks?
+3. Do you have a specific date in mind?
+The game should be done by May 15th.
 
 ---
 
 #### **3. What problem are you trying to solve?**
 **Client’s Response:**
-(Example: "Managing initiative order and tracking actions is too slow.")
+Boring games, there should be less of them and more good games.
 
 **Clarification & Notes:**
-- The real problem is **speed and efficiency** during gameplay, not just "initiative tracking."
-- Consider features like **automation** and **UI improvements** to streamline this.
-
+- The game should have good mechanics.
+- Game should be a mixture of popular games Stardew Valley and the Legend of Zelda.
+- Game should have the village and farm aspect from Stardew, but the adventure and combat of Zelda, and progression of Pokemon.
 ---
 
 #### **4. What is the most important feature?**
@@ -51,8 +58,8 @@
 (Example: "Initiative tracking needs to be easy and automatic.")
 
 **Clarification & Notes:**
-- This feature should be the **core focus** of the software.
-- Other features (e.g., dice rolling) are secondary.
+- The game should have a smooth transition from the Town to the action.
+- The game should revolve around the action aspect with some lifestyle elements (70-30)
 
 ---
 
@@ -61,8 +68,8 @@
 (Example: "Yes, but they are either too complex or too expensive.")
 
 **Clarification & Notes:**
-- Competitor analysis needed.
-- Find a way to differentiate: **Simpler UI? Free version? Customizable?**
+- There are similar games in the market that invoke individual concepts, but not the complete idea.
+  
 
 ---
 
@@ -71,9 +78,8 @@
 (Example: "It would be nice if it worked with Roll20 or D&D Beyond.")
 
 **Clarification & Notes:**
-- Check for **APIs** for possible integrations.
-- Consider a **manual import/export** feature if full integration isn’t feasible.
-
+- The game should implement AI voices into the game
+- The game should be downloadable such that it can be played locally on a machine, not a browser
 ---
 
 #### **7. What does success look like for this project?**
@@ -81,7 +87,8 @@
 (Example: "If my players can see whose turn it is without me saying anything, that’s a win.")
 
 **Clarification & Notes:**
-- Focus on **visual clarity and notifications**.
+- Game should appeal to a mass audience, and contain addictive features
+- Obtaining substantial knowledge of Unity and C#
 
 ---
 
@@ -90,7 +97,8 @@
 (Example: "Not much, unless players try to cheat dice rolls.")
 
 **Clarification & Notes:**
-- Consider **server-side dice validation** to prevent cheating.
+- None because the game is played locally.
+
 
 ---
 
@@ -99,7 +107,7 @@
 (Example: "I want to use it for many campaigns, so it should last for years.")
 
 **Clarification & Notes:**
-- Future **maintenance and updates** should be considered.
+- The game will not require updates once it is complete, so the lifetime should be forever or as long as the user has interest in it.
 
 ---
 
@@ -108,7 +116,7 @@
 (Example: "A way to send private messages to players would be cool.")
 
 **Clarification & Notes:**
-- Nice-to-have, but **not essential** for version 1.
+- A "pokemon-persona like" system would be nice to have but isn't required.
 
 ---
 
