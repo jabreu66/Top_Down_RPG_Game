@@ -1,0 +1,28 @@
+    How will you use this application?
+      its a video game
+    Where would the user be located physically when using this application?
+      At a computer
+    Where would the results be visible?
+      On the screne
+    When will this application be used?
+      When they're bored
+    When can the application fail?
+      If theres a bug
+    Who is my user?
+      Gamers
+    Who will deliver the inputs for the application?
+      Player
+    Who will receive the outputs of the application?
+      Engine
+    What do I know about this application?
+      Its a game mixing stardew valley, legend of zelda, and pokemon
+    What does this application need to do?
+      Be fun
+    What are the components of this application?
+      The game engine and the container
+    What needs to happen next?
+      Learn C#
+    What must happen before the next step?
+      Learn how to learn C#
+    What needs to be tracked?
+      inputs and save data
