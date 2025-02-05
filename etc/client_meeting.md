@@ -55,7 +55,10 @@ Boring games, there should be less of them and more good games.
 
 #### **4. What is the most important feature?**
 **Client’s Response:**
-(Example: "Initiative tracking needs to be easy and automatic.")
+Fun!
+The most important aspect is the transition from the town to the action sections
+70 action 30 town sim
+
 
 **Clarification & Notes:**
 - The game should have a smooth transition from the Town to the action.
@@ -65,7 +68,8 @@ Boring games, there should be less of them and more good games.
 
 #### **5. Is there a similar product on the market?**
 **Client’s Response:**
-(Example: "Yes, but they are either too complex or too expensive.")
+Yes and no
+There are games on the market with concepts and game play elements we want to involve but not all together. So yes and no.
 
 **Clarification & Notes:**
 - There are similar games in the market that invoke individual concepts, but not the complete idea.
@@ -75,7 +79,7 @@ Boring games, there should be less of them and more good games.
 
 #### **6. Are there any existing products or technologies that will need to be integrated?**
 **Client’s Response:**
-(Example: "It would be nice if it worked with Roll20 or D&D Beyond.")
+ChatGPT or AI Voices for extra credit :)
 
 **Clarification & Notes:**
 - The game should implement AI voices into the game
@@ -84,7 +88,9 @@ Boring games, there should be less of them and more good games.
 
 #### **7. What does success look like for this project?**
 **Client’s Response:**
-(Example: "If my players can see whose turn it is without me saying anything, that’s a win.")
+Its fun
+People we show it to like the game and dont want to stop playing
+Learning how to use unity effectively
 
 **Clarification & Notes:**
 - Game should appeal to a mass audience, and contain addictive features
@@ -94,7 +100,7 @@ Boring games, there should be less of them and more good games.
 
 #### **8. What risks are associated with a malicious user?**
 **Client’s Response:**
-(Example: "Not much, unless players try to cheat dice rolls.")
+None really, it will be locally downlaoded
 
 **Clarification & Notes:**
 - None because the game is played locally.
@@ -104,7 +110,7 @@ Boring games, there should be less of them and more good games.
 
 #### **9. What is the expected lifetime of this software?**
 **Client’s Response:**
-(Example: "I want to use it for many campaigns, so it should last for years.")
+Forever!
 
 **Clarification & Notes:**
 - The game will not require updates once it is complete, so the lifetime should be forever or as long as the user has interest in it.
@@ -113,7 +119,7 @@ Boring games, there should be less of them and more good games.
 
 #### **10. What additional features would you like?**
 **Client’s Response:**
-(Example: "A way to send private messages to players would be cool.")
+a pokemon/persona capture system... Maybe also AI Voices
 
 **Clarification & Notes:**
 - A "pokemon-persona like" system would be nice to have but isn't required.
