@@ -121,18 +121,18 @@ Boring games, there should be less of them and more good games.
 ---
 
 ## **Key Takeaways & Next Steps**
-- **Most important feature:** Initiative tracking
-- **Secondary features:** Dice rolling, notifications, private messaging
+- **Most important feature:** Transition from the two phases of the game
+- **Secondary features:** Maybe implementing the wokong/pokemon/person mechanic; AI voices
 - **Deadline:** 3 months
-- **Risks:** Potential cheating in dice rolls
+- **Risks:** none
 
 ### **Next Steps:**
-✅ Prioritize initiative tracking
-✅ Research existing products for inspiration
-✅ Explore integration options with Roll20/D&D Beyond
+✅ Learn C#/Unity
+✅ Research Sprite/assets to use
+✅ Fully design concpets
 
 ---
 
 ### **Signatures**
-(Client) **[Client’s Name]** – *Reviewed & Approved*
-(Developer) **[Your Name]** – *Re
+(Client) **Evan Rich** – *Reviewed & Approved*
+(Developer) **Jeffrey Abreu** – *Re
