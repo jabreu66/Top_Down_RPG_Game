@@ -1,0 +1,29 @@
+# Day/Night Cycle
+
+## **Persona**
+- **Name:** Harold James
+- **Relevant Characteristics:** Video Game publisher, wants a good game, strict on time
+- **Behaviors & Attitudes:** bad temper, doesnt want to reason. Thinks he knows best
+- **Goal:** Make money, make the game a hit
+
+---
+
+As a **publisher**,
+I want **the two features to mesh well**
+so that **the game will be fun and people will buy it**
+
+---
+
+## **Acceptance Criteria**
+- Positive feedback on the feature
+- When positive feedback is received
+- Each half is feature complete and the transition is seemless
+
+---
+
+## **Notes**
+- Made in 3 months
+- AI Voices
+- Learning C#
+- Learning Unity
+- Getting assets
