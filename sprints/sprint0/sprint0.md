@@ -4,10 +4,10 @@
 [A fun and inventive video game combining Stardew Valley and the Legend of Zelda.]
 
 ## **Scope:**
-[- Top down 2d pixel adventure style game ]
-[- Combining two different modes]
-[  - daytime town/stardew valley/farm elements]
-[  - nightime action/adventure Zelda elements]
+- Top down 2d pixel adventure style game
+- Combining two different modes
+  - daytime town/stardew valley/farm elements
+  - nightime action/adventure Zelda elements
 
 ## **Deliverables:**
 [A playable video games including all requirements in the scope]
