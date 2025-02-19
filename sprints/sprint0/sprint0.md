@@ -1,44 +1,53 @@
 # **Project Overview**
 
 ## **Application Vision/Goal:**
-[Describe the overall purpose and vision of the application. What problem does it solve? Who is the target audience?]
+[A fun and inventive video game combining Stardew Valley and the Legend of Zelda.]
 
 ## **Scope:**
-[List the major features and functionalities that define the scope of the project. Keep this high-level to avoid feature creep.]
+[- Top down 2d pixel adventure style game ]
+[- Combining two different modes]
+[  - daytime town/stardew valley/farm elements]
+[  - nightime action/adventure Zelda elements]
 
 ## **Deliverables:**
-[List what will be delivered by the end of the project, such as a working MVP (Minimum Viable Product), specific features, documentation, etc.]
+[A playable video games including all requirements in the scope]
 
 ## **Success Criteria:**
-[Define what will make this project successful. Examples include meeting deadlines, delivering core functionality, or achieving performance benchmarks.]
+[A fun game that when other people play it they want to keep playing]
 
 ## **Assumptions:**
-[List any assumptions about the technology, users, or resources that could impact development.]
+[?]
 
 ## **Risks:**
-[Identify potential risks and challenges, such as technical limitations, resource constraints, or dependency issues.]
+[- Little experience with Unity]
+[- Little experience with C#]
+[- Little experience with Pixel art and Asset creation]
+[- Other course work impeding development]
 
 ## **Design / Architectural Review:**
-[Outline the initial thoughts on application architecture. Will it be monolithic or microservices? Will it use a database? What major components will be included?]
+[Monolithic]
+[- Unity as a game engine includes all the archetecture we may need]
 
 ## **Test Environment:**
-[Define how the application will be tested. Will you use automated tests? What environment will the tests run in?]
+[Unity and Docker]
 
 ---
 
 # **Team Setup**
 
 ## **Team Members:**
-[List all team members involved in the project.]
+[- Evan Rich]
+[- Jeffrey Abreu]
 
 ## **Team Roles:**
-[Define roles for each team member, such as developer, designer, project manager, QA tester, etc.]
+[Both Developers]
 
 ## **Team Norms:**
-[Establish how the team will communicate, how often meetings will happen, and any other ground rules for collaboration.]
+[Three times a week]
+[- MWF in class]
 
 ## **Application Stack:**
-[List all the technologies being used in the project, including programming languages, frameworks, and tools.]
+[Unity, C#, Docker]
 
 ### **Libraries/Frameworks:**
-[List any specific libraries or frameworks your application will use, such as React, Flask, Django, etc.]
+[Unity Game Engine,]
