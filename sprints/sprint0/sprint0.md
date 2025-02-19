@@ -47,7 +47,7 @@
 [- MWF in class]
 
 ## **Application Stack:**
-[Unity, C#, Docker]
+[Unity, C#, Docker, Jira]
 
 ### **Libraries/Frameworks:**
 [Unity Game Engine,]
