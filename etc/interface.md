@@ -11,8 +11,7 @@ class Database:
 class Write:
     def format_report(self):
         """Formats the user data as a report."""
-        return f"User Report:\nName: {self.name}\nEmail: {self.email}"
-
+        return f"User Report:\nName: {self.name}\nEmail: {self.email}
     def send_email(self, message: str):
         """Simulates sending an email to the user."""
         print(f"Sending email to {self.email}:\n{message}")
