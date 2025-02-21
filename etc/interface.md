@@ -22,10 +22,11 @@ class Write:
         
 **Questions**
 - The benefits of refactoring code to use SRP is that it makes our code less prone to errors as we make modifications.
-- The new design refactors the code so that each class doesn't hold too much responsibility. The it User class and responsible creating users, the Database class is solely responsible for saving information to itself, and the Write class is responsible for anything related to writing text.
+- The new design refactors the code so that each class doesn't hold too much responsibility. The User class is responsible creating users, the Database class is solely responsible for saving information to itself, and the Write class is responsible for anything related to writing text.
 - Because the code uses the SRP principle, even if we decided to swap databases, it would not matter because each class only relies on itself. If we weren't using SRP, then this would be an issue.
 
 **Part 2** 
+
         class Player:
          pass
 
