@@ -23,10 +23,10 @@
 
 ## Requirements Attempted in next Sprint
 
-<< TBD >>
+Screen Appears 
 
 # Milestone Status
 
-<< Pass/Fail >>
+Pass
 
 ## Requested Changes
