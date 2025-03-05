@@ -6,7 +6,7 @@
 
 ***
 
-## Sprint 1 Review
+## Sprint 0 Review
 
 ### SRS Sections Updated
 
@@ -18,7 +18,7 @@ N/A
 
 ### Sprint Requirements Attempted
 
-Since Sprint 1, nothing of merit was able to be completed because of other course work and confusion on the requirements
+N/A
 
 ### Completed Requirements
 
@@ -34,7 +34,7 @@ A Unity game using C# attempting to combine the ideas of Stardew Valley and the 
 
 ***
 
-## Sprint 1 Planning
+## Sprint 2 Planning
 
 ## Requirements Flex
 
@@ -46,11 +46,11 @@ N/A
 
 ### Requirement Target
 
-Requirements
+Learning C# and Unity
 
 ### User Stories
 
-<< Corresponding User Stories >>
+N/A?
 
 ### Planning
 
