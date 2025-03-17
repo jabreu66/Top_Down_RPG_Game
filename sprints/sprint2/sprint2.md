@@ -14,7 +14,7 @@ Software Architecture Diagram
 
 ### User Story
 
-<< Corresponding User Stories completed in this sprint >>
+N/A
 
 ### Sprint Requirements Attempted
 
@@ -51,7 +51,7 @@ Player Movement and basic ground collision
 
 ### User Stories
 
-<< Corresponding User Stories >>
+Player movement, walkable world
 
 ### Planning
 
