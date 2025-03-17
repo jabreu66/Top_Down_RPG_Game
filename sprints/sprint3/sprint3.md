@@ -67,11 +67,10 @@ N/A
 We both have midterms this week which could impede progress
 
 ### Team Work Assignments
-Evan:
-
+Evan: 
 Player attacking, Dungeon Tile Map
 
 
-Jeff:
 
+Jeff:
 Building collision and houses
