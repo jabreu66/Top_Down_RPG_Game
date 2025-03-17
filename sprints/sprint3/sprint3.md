@@ -51,7 +51,7 @@ Add to Requirments, Team Rolls, Testing
 
 ### User Stories
 
-<< Corresponding User Stories >>
+Walkable City, Combat, Dungeon
 
 ### Planning
 
