@@ -37,7 +37,7 @@ As a **publisher**
 I want **a fun game**,
 so that **people will want to keep playing it**
 
-As a ** publisher**
+As a **publisher**
 I want **a dungeon to explore**,
 so that **the game has action and a reason to play**
 
