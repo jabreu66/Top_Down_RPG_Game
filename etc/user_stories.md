@@ -12,6 +12,11 @@ As a **publisher**,
 I want **the two features to mesh well**
 so that **the game will be fun and people will buy it**
 
+As a **publisher**
+I want **each phase of the game (day/night) to be engaging**
+The player **should not feel that switching between phases of the game is a chore**
+The transitions **should not be disruptive to gameplay**
+
 
 As a **publisher**,
 I want **a character that can move**
@@ -40,6 +45,11 @@ so that **people will want to keep playing it**
 As a **publisher**
 I want **a dungeon to explore**,
 so that **the game has action and a reason to play**
+
+As a **publisher**
+I want **NPCs to talk to in the daytime**
+
+
 
 
 - Dungeon
