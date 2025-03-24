@@ -35,7 +35,7 @@ N/A
 
 ### The summary of the entire project
 
-<< A general overview of the entire project >>
+A game with a walkable overworld and a controllable character that has animations for each action
 
 ***
 
