@@ -54,20 +54,26 @@ User Interface, Requirements
 
 ### User Stories
 
-<< Corresponding User Stories >>
+Attacking, NPCs
 
 ### Planning
 
-<< Our team's detailed plan to complete the sprint >>
+Evan will add a hurtbox to the attack animation, an enemy that can walk around, and functionality that the enemy can die.
+
+Jeff will add NPCs around the world, animals and people.
 
 ### Action Items
 
-<< A list of things that need to happen in our for our team to complete the sprint >>
+N/A
 
 ### Issues and Risks
 
-<< A list of potential obstacles that could keep us from completing the sprint and what's being done about them >>
+N/A
 
 ### Team Work Assignments
 
-<< A list of each team member and their works assignments for this sprint >>
+Evan: 
+Player can attack enemies and they can die
+
+Jeff:
+NPCs (animals first)
