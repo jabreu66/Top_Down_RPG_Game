@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: Path_Tile_12
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 1854294403, guid: 903548aafb2188e428b332f4231b5829, type: 3}
+  m_Sprite: {fileID: -2011597162, guid: 197349ad11ea8774d8b65c78d7ecd667, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
