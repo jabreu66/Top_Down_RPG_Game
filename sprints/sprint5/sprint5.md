@@ -50,20 +50,28 @@ Add requirements
 
 ### User Stories
 
-<< Corresponding User Stories >>
+Combat, Walkable town
 
 ### Planning
 
-<< Our team's detailed plan to complete the sprint >>
+Jeff:
+working on the map, make every building able to be walked into
+
+Evan:
+Enemy chases you, visual feedback for hits (knockback), ranged enemy (push goal)
 
 ### Action Items
 
-<< A list of things that need to happen in our for our team to complete the sprint >>
+Work on the game
 
 ### Issues and Risks
 
-<< A list of potential obstacles that could keep us from completing the sprint and what's being done about them >>
+We are both very busy with projects and work taking up most of our avaiable time
 
 ### Team Work Assignments
 
-<< A list of each team member and their works assignments for this sprint >>
+Jeff:
+Work on map, Scene transitions for each building
+
+Evan:
+Enemy AI, Knockback for hits, Second enemy
