@@ -10,11 +10,14 @@ public class PlayerMovement : MonoBehaviour
     
     private bool isAttacking = false;
 
+    public Player_Combat player_combat;
+
     void Update()
     {
         // Process input in Update instead of FixedUpdate for more responsive controls
         if (Input.GetKeyDown(KeyCode.Z) && !isAttacking) {
-            StartCoroutine(Attack());
+            player_combat.Attack();
+            //StartCoroutine(Attack());
         }
     }
 
