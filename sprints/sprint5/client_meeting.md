@@ -2,17 +2,16 @@
 
 ## Sprint Notes
 
-## SRS Updated
-
-Testing
 
 ## Requirements Attempted in this Sprint
 
-Character must not pass/fall through the ground
+- NPC characters
+- Hitbox for attack
 
 ## Requirements complete
 
-Character must not pass/fall through the ground
+- NPC characters/map expansion
+- Hitbox for attack
 
 ## Requirements incomplete
 
@@ -24,8 +23,9 @@ N/A
 
 ## Requirements Attempted in next Sprint
 
-- NPC characters
-- Hitbox for attack
+- Complete Dungeon
+- Persistent objects
+- Begin inventory management
 
 # Milestone Status
 
