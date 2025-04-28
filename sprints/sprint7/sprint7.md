@@ -19,7 +19,7 @@ Walkable town, combat
 ### Sprint Requirements Attempted
 
 Jeff: 
-asa
+Actual fleshed out town, inventory, persistant data
 
 Evan:
 Dungeon Map, Player Knockback, Fast enemy, ranged enemy
@@ -27,7 +27,7 @@ Dungeon Map, Player Knockback, Fast enemy, ranged enemy
 ### Completed Requirements
 
 Jeff:
-asa
+Fleshed out town, some persiatant data
 
 Evan:
 Dungeon map, Player Knockback
@@ -35,14 +35,14 @@ Dungeon map, Player Knockback
 ### Incomplete Requirements
 
 Jeff:
-asa
+Inventory, Some persistant data
 
 Evan:
 The enemies were not completed. The only holdback is time.
 
 ### The summary of the entire project
 
-<< A general overview of the entire project >>
+A video game with two modes, a full dungeon floor to explore and a vibrant town to walk around in
 
 ***
 
@@ -66,16 +66,21 @@ Comabt, Inventory
 
 ### Planning
 
-<< Our team's detailed plan to complete the sprint >>
+Finish the technical debt we acumulated
 
 ### Action Items
 
-<< A list of things that need to happen in our for our team to complete the sprint >>
+Jeff:
+Work on the inventory and get the rest of the data persistant
 
 ### Issues and Risks
 
-<< A list of potential obstacles that could keep us from completing the sprint and what's being done about them >>
+Evan has a concert at the end of the week that requires a lot of time
 
 ### Team Work Assignments
 
-<< A list of each team member and their works assignments for this sprint >>
+Jeff:
+Inventory, more persiatnt data
+
+Evan:
+Finish dungeon floor and two more enemies
