@@ -71,7 +71,7 @@ Finish the technical debt we acumulated
 ### Action Items
 
 Jeff:
-Work on the inventory and get the rest of the data persistant
+Get the rest of the data persistant
 
 ### Issues and Risks
 
