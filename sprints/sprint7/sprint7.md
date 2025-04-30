@@ -80,7 +80,7 @@ Evan has a concert at the end of the week that requires a lot of time
 ### Team Work Assignments
 
 Jeff:
-Inventory, more persiatnt data
+More persistant data
 
 Evan:
 Finish dungeon floor and two more enemies
