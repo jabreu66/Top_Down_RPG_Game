@@ -5,27 +5,21 @@
 
 ## Requirements Attempted in this Sprint
 
-- NPC characters
-- Hitbox for attack
+- Complete Dungeon
+- Persistent objects
 
 ## Requirements complete
 
-- NPC characters/map expansion
-- Hitbox for attack
+- Complete Dungeon
+- Persistent objects
 
 ## Requirements incomplete
 
-N/A
+- Dropped: Begin inventory management
 
 ## Requirement Flex Remaining
 
 5/5
-
-## Requirements Attempted in next Sprint
-
-- Complete Dungeon
-- Persistent objects
-- Begin inventory management
 
 # Milestone Status
 
